@@ -2,7 +2,7 @@
 This program allows you to use a bank account interface that lets you withdraw, deposit, and view transactions. 
 
 HOW TO:
-Download the files and go to the src->BankAccountGUI to use the interface in Eclipse IDE.
+Download the BA3 files and go to the src->BankAccountGUI to use the interface in Eclipse IDE.
 Here is a demo in case you just want a quick look: 
 ![Bank-Account-demo](https://user-images.githubusercontent.com/59658246/93869477-128a6400-fc89-11ea-8e59-1e6152b538b5.gif)
 
